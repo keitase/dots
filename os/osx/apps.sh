@@ -12,36 +12,36 @@ apps=(
   qlcolorcode
   screenflick
   slack
-  transmit
   appcleaner
   firefox
-  hazel
-  qlmarkdown
   seil
   spotify
   vagrant
-  arq
-  flash
   iterm2
-  qlprettypatch
   shiori
   sublime-text3
   virtualbox
   atom
   flux
   mailbox
-  qlstephen
   sketch
-  tower
   vlc
-  cloudup
-  font-m-plus
   nvalt
   quicklook-json
   skype
   transmission
-  apikitchen
-  mamp
+  teamspeak-client
+  filezilla
+  evernote
+  gpgtools
+  pycharm
+  vlc
+  steam
+  spectacle
+  caffeine
+  dropbox
+  teamviewer
+  mactex
 )
 
 # fonts
@@ -49,6 +49,7 @@ fonts=(
   font-m-plus
   font-clear-sans
   font-roboto
+  font-anonymous-pro
 )
 
 # Specify the location of the apps
