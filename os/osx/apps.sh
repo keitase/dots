@@ -13,7 +13,6 @@ apps=(
   slack
   appcleaner
   firefox
-  seil
   vagrant
   iterm2
   shiori
