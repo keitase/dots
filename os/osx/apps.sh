@@ -10,12 +10,10 @@ apps=(
   dropbox
   google-chrome
   qlcolorcode
-  screenflick
   slack
   appcleaner
   firefox
   seil
-  spotify
   vagrant
   iterm2
   shiori
@@ -23,10 +21,9 @@ apps=(
   virtualbox
   atom
   flux
-  mailbox
   sketch
   vlc
-  nvalt
+  keepassx
   quicklook-json
   skype
   transmission
@@ -35,21 +32,19 @@ apps=(
   evernote
   gpgtools
   pycharm
-  vlc
   steam
   spectacle
   caffeine
-  dropbox
   teamviewer
   mactex
 )
 
 # fonts
 fonts=(
-  font-m-plus
   font-clear-sans
   font-roboto
   font-anonymous-pro
+  font-inconsolata-dz
 )
 
 # Specify the location of the apps
