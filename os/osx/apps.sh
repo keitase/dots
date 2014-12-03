@@ -15,7 +15,6 @@ apps=(
   firefox
   vagrant
   iterm2
-  shiori
   sublime-text3
   virtualbox
   atom
@@ -24,18 +23,15 @@ apps=(
   vlc
   keepassx
   quicklook-json
-  skype
   transmission
   teamspeak-client
   filezilla
   evernote
   gpgtools
   pycharm
-  steam
   spectacle
   caffeine
   teamviewer
-  mactex
 )
 
 # fonts
