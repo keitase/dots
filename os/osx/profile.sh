@@ -14,9 +14,6 @@ export PATH=$(brew --prefix coreutils)/libexec/gnubin:$PATH
 # use: brew install android-sdk
 export ANDROID_HOME=/usr/local/opt/android-sdk
 
-# Use sublime for Ctrl+x+e
-EDITOR="subl -w"
-
 # Default cd path for interactive shells
 if test “${PS1+set}”; then
   CDPATH=:"..:~:~/Projects";
@@ -141,7 +138,7 @@ alias ll='ls -1t'
 alias lv='ls -R'
 
 ## Git aliases from TJ Holowaychuk
-alias gd="git diff | subl"
+alias gd="git diff"
 alias ga="git add"
 alias gbd="git branch -D"
 alias gs="git status"
@@ -165,17 +162,7 @@ function port() {
   lsof -i ":${1:-80}"
 }
 
-## subl
-alias s="subl -a"
-
-## mongroup
 alias mg=mongroup
-
-## gopen - open to own github
-
-function gopen() {
-  open "https://github.com/matthewmueller/${1}";
-}
 
 
 ## Open localhost
