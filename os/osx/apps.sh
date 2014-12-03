@@ -19,7 +19,6 @@ apps=(
   virtualbox
   atom
   flux
-  sketch
   vlc
   keepassx
   quicklook-json
